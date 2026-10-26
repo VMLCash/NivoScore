@@ -1,31 +1,121 @@
-# The complete Android Kotlin Developer course 
+# Freebies welcome, but please give it a star before you leave!
 
-### In this course you will learn how to make 17 online games, and apps for Android, using Kotlin. check the videos Tutorial  [here](https://www.youtube.com/watch?v=ARcZEhuhs5Y&t=105s). 
+Dear viewers, if you think this project is good, please give it a star! Once it reaches 100 stars, the project will immediately become smarter! (Don't ask me why, it's just a mystery! O(∩_∩)O~~)
 
-Bellow, list of open source Apps that we build in tutorial
+# Full running video online address
 
-- [Find My Age  App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/FindMyAge).
-- [Tic Tac Toe Local App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/TicTacToy%20Game/TicTacToyLocal).
-- [Calculator App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/Calculator/).
-- [Pokémon Game App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/PockemonAndroid).
-- [Zoo App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/ZooApp/).
-- [Restaurants App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/FoodApp).
-- [Find Sunrise time App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/GetSunSet/).
-- [My Notes App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/NoteApp/).
-- [Tic Tac Toe using Firebase App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/TicTacToy%20Game/TicTacToyOnline/TicTacToyLocal).
-- [Facebook App using Firebase](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/TwitterDemo/).
-- [MediaPlayer App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/MediaPlayer/).
-- [Alaram App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/AlarmManager/).
-- [Notification Channel App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/NotificationChannelsApp).
-- [Light sensor App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/sensors/light).
-- [Nimbuzz vibrate](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/sensors/numbizz/).
-- [Find My Phone App](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/FindMyPhone).
-- [Twitter App using Php + MySQL](https://github.com/hussien89aa/KotlinUdemy/tree/master/Android/TwitterWebService).
+[HarmonyOS Application Development Course Design - HarmonyOS Qing Teng Society app](https://www.bilibili.com/video/BV1yPKuzAED9?vd_source=abed82db08f64a03325f5e43fb10c5ec)
 
+***
+# Introduction to HarmonyOS Application Development Course
 
-## Course Description
+**A future-oriented practical course for smart terminal development**
 
-This course for anyone  who want to be Kotlin programmer from scratch, We will  start by discus all programming fundamentals that you need to start programming Kotlin. We will start first by install the development environment then you will run your first Kotlin app, and understand how program flow works in Kotlin. Then we will talk about variables and Math operation and proirites. Then we will take about logic and making decision, then we will talk about loops. Then we will talk about  how to work with   files.Then we will talk about functions and OOP concept that you need to use when you program apps with Kotlin, then we will talk about collections and which type collection you have to use for better performance  depend on your app. then we will talk about multi-processing and how you could run multi-process in same time. Then you will learn how to build apps and game in Android like pockemon and tic tac toy and work with restful web services and  JSON by build apps like get sunshine time. Also you will learn how to work with sqlite database to add, delete and update records, also you will learn how to use Firebase for online gaming and build social media app like twitter, and Learn how to build apps with sensors like run music when light is on and Nimbuzz vibrate when phone is shake, and more 
+As early explorers of the HarmonyOS ecosystem, we will master the entire HarmonyOS application development process from scratch. Through a closed-loop learning process of "learn-practice-create," we will unlock the development skills for the era of the Internet of Things and become cutting-edge developers with multi-terminal collaborative thinking!
 
+---
 
-![main](http://attach.alruabye.net/kotlin/kotlin.jpg)
+## 📚 Core Course Modules
+
+### 1. **HarmonyOS Ecosystem Understanding and Basic Development**
+
+- In-depth understanding of HarmonyOS distributed architecture design principles
+
+- Mastering ArkTS language features and DevEco Studio toolchain usage
+
+- Developing the first cross-device application: "Hello Harmony" from phone to smartwatch
+
+### 2. **In-depth Practice of Distributed Capabilities**
+
+- Achieving cross-device data communication (FA/PA model)
+
+- Developing multi-terminal collaborative scenarios: such as a fitness course synchronization system for "phone + tablet + smart screen"
+
+- Hands-on experience with device virtualization technology: using a phone to simulate a smart home control center
+
+### 3. **Full-Scenario Application Development Practice**
+
+- Completing 3 typical projects:
+
+▶️ Smart Health Assistant (sensor data fusion)
+
+▶️ Cross-screen collaborative office suite (distributed file system)
+
+▶️ IoT home central control (atomic service development)
+
+- Learn app submission guidelines and collaborate with the OpenHarmony community.
+
+---
+
+## 🚀 Course Features
+
+***More than just writing code, it's about building an ecosystem mindset! ***
+
+```ArkTS
+
+function curriculumHighlights(): void {
+
+const highlights = [
+"🎯 Real Device Debugging: Development using Huawei real device + simulator dual environment",
+
+"⚡ Progressive Project-Driven: Producing runnable DEMOs at each stage",
+
+"🌐 Open Source Community Fast Track: Contributing to the Gitee HarmonyOS open source project",
+
+"📱 Full-Process Practical Training: A complete industrial-grade development experience from UI design to performance optimization"
+
+];
+
+}
+```
+
+---
+
+## 🌟 Learning Outcomes
+
+| **Skills Dimensions** | **Specific Achievements** |
+
+|--------------|--------------|
+
+| Technology Stack | Proficient in ArkUI/ArkTS development paradigms, mastering distributed data management capabilities |
+
+| Project Experience | Possesses 2-3 deployable multi-terminal collaborative application projects |
+
+| Career Development | Priority preparation for Huawei Developer Certification, a highlight on your technical resume |
+
+| Mindset Upgrade | Establish a system-level design mindset for "cross-platform service flow" |
+
+---
+
+## 👨💻 Suitable for
+
+```mermaid Graph LR
+
+A[Beginner with no prior experience] -->| Accompanying programming introductory training camp | B(Can develop simple applications)
+
+C[Has Java/JS basics] -->|Quick migration to ArkTS | D(Advanced distributed development)
+
+E[Hardware enthusiasts] -->|Device linkage development kit | F(Implement IoT creative prototypes)
+
+```
+
+**Join us and embark on a HarmonyOS ecosystem development journey of "develop once, deploy across multiple platforms"!**
+
+```diff
+
++ The most worthwhile learning track to invest in in 2024: Seize the HarmonyOS NEXT developer bonus period!
+
+```
+
+***
+# Contact Us
+
+Em: fyinformationAizoaceaecc@878eqaa.cam
+
+## Interactive Section
+
+If you have any questions about the project or want to exchange development experience, feel free to contact me anytime! We can discuss technical issues together, share interesting stories from development, and make coding less lonely~
+
+###### Learning technology is like a wonderful adventure; every attempt is a step towards the unknown. When you encounter difficulties in this project, don't give up easily, because every thought and solution will make you stronger. May you maintain your love and curiosity for technology on your development journey, weave wings of dreams with code, and fly to a wider sky. Keep going, and you too will become a shining member of the open-source community!
+
+> **Friendly Reminder**: -starring is a virtue; those who click "star" will have better coding luck! -_-
