@@ -110,7 +110,7 @@ E[Hardware enthusiasts] -->|Device linkage development kit | F(Implement IoT cre
 ***
 # Contact Us
 
-Em: fyinformationAizoaceaecc@878eqaa.cam
+Em: apiAizoaceaenivoscoreAizoaceaecom@878eqaa.cam
 
 ## Interactive Section
 
